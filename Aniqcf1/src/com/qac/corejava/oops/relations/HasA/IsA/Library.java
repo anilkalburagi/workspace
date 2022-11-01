@@ -6,7 +6,7 @@ public class Library {
 	int noOfBook;
 	String location;
 	
-	public void readingBook() {
+	public void readingBook(String name) {
 		System.out.println("reading bookes in library");
 	}
 	
